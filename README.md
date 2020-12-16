@@ -2,7 +2,7 @@
 
 
 
-[Purpose](https://makeareadme.com) 
+## Purpose
 Solving coding problems on LeetCode and Codewars
 
 I hope people that are learning how to solve technical problems will be able to review my notes and code to learn more
@@ -16,8 +16,8 @@ I hope people that are learning how to solve technical problems will be able to 
 
 ## Roadmap/Progress
 
-| LeetCode  | Difficulty | Link |
-| ------------- | ------------- | ------------- |
-| TwoSum  | Easy  | * [LeetCode Problem](https://leetcode.com/problems/two-sum/)  |
+| LeetCode  | Difficulty | Link | My solution |
+| ------------- | ------------- | ------------- | ------------- |
+| TwoSum  | Easy  | [LeetCode Problem](https://leetcode.com/problems/two-sum/)  | [My solution](https://github.com/PhraxayaM/CodewarsAndLeetCode/blob/main/CodewarsAndLeetCode.playground/Pages/LC-TwoSum.xcplaygroundpage/Contents.swift) |
 
 
