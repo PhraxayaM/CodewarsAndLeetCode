@@ -4,5 +4,6 @@
         <page name='LC-TwoSum'/>
         <page name='CW-FakeBinary'/>
         <page name='LC-DefangedIP'/>
+        <page name='CW-YouOnlyNeedOne'/>
     </pages>
 </playground>
