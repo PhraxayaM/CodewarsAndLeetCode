@@ -21,5 +21,9 @@ I hope people that are learning how to solve technical problems will be able to 
 | TwoSum  | Easy  | [LeetCode Problem](https://leetcode.com/problems/two-sum/)  | [My solution](https://github.com/PhraxayaM/CodewarsAndLeetCode/blob/main/CodewarsAndLeetCode.playground/Pages/LC-TwoSum.xcplaygroundpage/Contents.swift) |
 | DefangedIpAddress  | Easy  | [LeetCode Problem](https://leetcode.com/problems/defanging-an-ip-address/)  | [My solution](https://github.com/PhraxayaM/CodewarsAndLeetCode/blob/main/CodewarsAndLeetCode.playground/Pages/LC-DefangedIP.xcplaygroundpage/Contents.swift) |
 
+| Codewars  | Kyu | Link | My solution |
+| ------------- | ------------- | ------------- | ------------- |
+| YouOnlkyNeedOne  | 8 | [Codewars Problem](https://www.codewars.com/kata/57cc975ed542d3148f00015b/train/swift)  | [My solution](https://github.com/PhraxayaM/CodewarsAndLeetCode/blob/main/CodewarsAndLeetCode.playground/Pages/CW-YouOnlyNeedOne.xcplaygroundpage/Contents.swift) |
+
 
 
