@@ -7,5 +7,6 @@
         <page name='CW-YouOnlyNeedOne'/>
         <page name='LC-KidsWithGreatestNumberOfCandies'/>
         <page name='Untitled Page'/>
+        <page name='LC-RunningSum'/>
     </pages>
 </playground>

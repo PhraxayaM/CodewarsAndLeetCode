@@ -29,7 +29,7 @@
 
 func kidsWithCandies(_ candies: [Int], _ extraCandies: Int) -> [Bool] {
         // we can use Swift's built in Max function to get the highest value in an array
-        var greatestArray = candies.max()!
+        var greatestValueArray = candies.max()!
     
         // we need to create a place to store our boolean values
         var mostCandy = [Bool]()
@@ -37,7 +37,7 @@ func kidsWithCandies(_ candies: [Int], _ extraCandies: Int) -> [Bool] {
         // loop through our given array
         for num in candies {
             // check if value in array plus our extra candies is greater than or equal to the highest value in the array
-            if num + extraCandies >= greatestArray {
+            if num + extraCandies >= greatestValueArray {
                 // if our current value in the array is greater than or equal than the highest number we want to append a true boolean value into our empty array of booleans
                 var hasGreatest = true
                 mostCandy.append(hasGreatest)
