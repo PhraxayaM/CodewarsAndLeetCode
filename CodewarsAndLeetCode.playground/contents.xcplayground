@@ -8,5 +8,7 @@
         <page name='LC-KidsWithGreatestNumberOfCandies'/>
         <page name='Untitled Page'/>
         <page name='LC-RunningSum'/>
+        <page name='LC-NumberOfGoodPairs'/>
+        <page name='LC-CheckIfTwoStringsAreEquivalent'/>
     </pages>
 </playground>
