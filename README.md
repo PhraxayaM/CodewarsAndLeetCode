@@ -24,6 +24,7 @@ I hope people that are learning how to solve technical problems will be able to 
 | RunningSum  | Easy  | [LeetCode Problem](https://leetcode.com/problems/running-sum-of-1d-array/)  | [My solution](https://github.com/PhraxayaM/CodewarsAndLeetCode/blob/main/CodewarsAndLeetCode.playground/Pages/LC-RunningSum.xcplaygroundpage/Contents.swift) |
 | NumberOfGoodPairs  | Easy  | [LeetCode Problem](https://leetcode.com/problems/number-of-good-pairs/)  | [My solution](https://github.com/PhraxayaM/CodewarsAndLeetCode/blob/main/CodewarsAndLeetCode.playground/Pages/LC-NumberOfGoodPairs.xcplaygroundpage/Contents.swift) |
 | CheckIfTwoStringsAreEquivalent  | Easy  | [LeetCode Problem](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)  | [My solution](https://github.com/PhraxayaM/CodewarsAndLeetCode/blob/main/CodewarsAndLeetCode.playground/Pages/LC-CheckIfTwoStringsAreEquivalent.xcplaygroundpage/Contents.swift) |
+| LC-NumberOfStepsToReduceToZero  | Easy  | [LeetCode Problem](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)  | [My solution](https://github.com/PhraxayaM/CodewarsAndLeetCode/blob/main/CodewarsAndLeetCode.playground/Pages/LC-NumberOfStepsToReduceToZero.xcplaygroundpage/Contents.swift) |
 
 
 
